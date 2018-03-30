@@ -270,8 +270,8 @@ libpcap:
 libpcl-all:
   osx:
     homebrew:
-      depends: [libpcl-all-dev]
-libpcl-all-dev:
+      depends: [libpcl-dev]
+libpcl-dev:
   osx:
     homebrew:
       packages: [pcl]
