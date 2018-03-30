@@ -2407,6 +2407,7 @@ libpcl-all-dev:
     xenial: [libpcl-dev]
     yakkety: [libpcl-dev]
     zesty: [libpcl-dev]
+    artful: [libpcl-dev]
 libpcsclite-dev:
   arch: [pcsclite]
   debian: [libpcsclite-dev]
